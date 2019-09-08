@@ -9,7 +9,8 @@ The board input must be in the form of number from 1-9, where the board looks li
  1 | 2 | 3
  ---------
  
- 
+ ![image](https://user-images.githubusercontent.com/46829030/64493664-b9938d80-d237-11e9-9731-ecc26390a9b0.png)
+
  
  
  
