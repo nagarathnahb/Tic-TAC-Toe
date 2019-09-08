@@ -7,6 +7,7 @@ The board input must be in the form of number from 1-9, where the board looks li
  4 | 5 | 6
  ---------
  1 | 2 | 3
+ ---------
  
  
  
